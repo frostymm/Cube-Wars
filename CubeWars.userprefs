@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Ball-Stars\Assets\Code\NetworkManager.cs">
+    <Files>
+      <File FileName="..\Ball-Stars\Assets\Code\Scripts\MainMenuScript.cs" Line="58" Column="26" />
+      <File FileName="..\Ball-Stars\Assets\Code\NetworkManager.cs" Line="186" Column="5" />
+      <File FileName="..\Ball-Stars\Assets\Code\GameManager.cs" Line="176" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
